@@ -49,6 +49,8 @@ This repository documents my journey through the **LeetCode 75 Problem Set**, tr
 - **Git**
 
 ## 📝 Repository Structure
+
+```
 leetcode-75/
 │
 ├── arrays_and_strings/
@@ -58,6 +60,7 @@ leetcode-75/
 ├── solutions/
 │   └── template.py
 └── README.md
+```
 
 ## 🔍 Solution Template
 I'll be using a consistent template for each solution:
