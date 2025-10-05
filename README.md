@@ -14,7 +14,7 @@ This repository documents my journey through the **LeetCode 75 Problem Set**, tr
 ## 📊 Progress Tracker
 | Category | Total Problems | Solved | In Progress |
 |----------|----------------|--------|-------------|
-| Arrays & Strings | 9 | 0 | 1 |
+| Arrays & Strings | 9 | 1 | 0 |
 | Two Pointers | 4 | 0 | 0 |
 | Sliding Window | 4 | 0 | 0 |
 | Prefix Sum | 2 | 0 | 0 |
