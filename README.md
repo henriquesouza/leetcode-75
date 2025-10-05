@@ -1,20 +1,20 @@
 # LeetCode 75 Challenge: Algorithm Problem Solutions
 
-![Progress](https://progress-bar.xyz/0/)
+![Progress](https://progress-bar.xyz/1/)
 
 ## 🚀 Project Overview
 This repository documents my journey through the **LeetCode 75 Problem Set**, tracking my progress in solving algorithmic challenges and demonstrating continuous learning and problem-solving skills.
 
 ## 🎯 Current Status
-**Problems Solved: 0/75**
+**Problems Solved: 1/75**
 
-**Current Focus:** Setting up repository
+**Current Focus:** solve LeetCode problems
 
 
 ## 📊 Progress Tracker
 | Category | Total Problems | Solved | In Progress |
 |----------|----------------|--------|-------------|
-| Arrays & Strings | 9 | 0 | 0 |
+| Arrays & Strings | 9 | 0 | 1 |
 | Two Pointers | 4 | 0 | 0 |
 | Sliding Window | 4 | 0 | 0 |
 | Prefix Sum | 2 | 0 | 0 |
@@ -39,8 +39,8 @@ This repository documents my journey through the **LeetCode 75 Problem Set**, tr
 
 ## 🧭 Roadmap
 - [x] Create repository
-- [ ] Set up development environment
-- [ ] Solve LeetCode problems
+- [x] Set up development environment
+- [/] Solve LeetCode problems
 - [ ] Implement solution tracking
 - [ ] Retouch documentation
 
