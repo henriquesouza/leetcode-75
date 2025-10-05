@@ -24,3 +24,10 @@ class Solution:
             word2_list.pop(0)
 
         return ''.join(merged) + ''.join(word1_list) + ''.join(word2_list)
+
+def test_solution():
+    solution = Solution()
+    assert solution.mergeAlternately('abc','def') == 'adbecf'
+
+if __name__ == '__main__':
+    test_solution()
